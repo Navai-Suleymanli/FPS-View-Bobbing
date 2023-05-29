@@ -36,8 +36,3 @@ Usage:
 7. Authorship:
    The authorship of the code files contained in this repository is not specified in this README file. Please refrain from asking the person who provided you with this README if they are the author of the code. They will not be able to provide you with any information regarding the original author.
 
-License:
-The code files in this repository may be subject to various licenses. It is essential to review the license information provided within each code file or refer to the appropriate license file in the repository for more details.
-
-Acknowledgments:
-The person writing this README file did not create the code files contained in this repository. However, they would like to express their gratitude to the original authors for sharing their work.
